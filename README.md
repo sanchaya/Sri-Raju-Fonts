@@ -27,13 +27,9 @@ The fonts were originally shared publicly for free use. While no formal license 
 
 ## ✍️ Credits
 
-- **Typeface Designer**: [Nagalingappa Badiger]
+- **Typeface Designer**: Nagalingappa Badiger
 - **Publisher**: [Sugata Srinivasaraju](https://sugataraju.blogspot.com/)
 - **Original Blog**: [Free Download: Sriraju Type Family](https://sugataraju.blogspot.com/2019/01/free-download-sriraju-type-family-with.html)
 
 ---
-
-## 🛠 Maintainer
-
-This repository is maintained unofficially by the Kannada type and design community to preserve and promote native scripts.
 
